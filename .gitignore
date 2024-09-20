@@ -55,5 +55,6 @@ venv.bak/
 tmp/
 temp/
 
+# enviroment variables
 vars.env
 .idea
