@@ -1,7 +1,7 @@
 # Chatbot_with_rag API
 This repository contains a chatbot function uses  the Hugging Face Hub and Langchain.
 
-## Used Technologies
+## This project uses 
     -Python
     -Flask
     -HuggingFace
