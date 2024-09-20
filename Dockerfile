@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.12
 
 WORKDIR /app
 
@@ -11,7 +11,7 @@ COPY . .
 
 COPY setup.py ./
 
-ENV HUGGING_FACE_HUB_TOKEN=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
+ENV HUGGING_FACE_HUB_TOKEN=
 
 CMD ["python", "chatbot.py"]
 
