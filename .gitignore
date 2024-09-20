@@ -54,3 +54,6 @@ venv.bak/
 *.log
 tmp/
 temp/
+
+vars.env
+.idea
