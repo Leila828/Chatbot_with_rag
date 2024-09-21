@@ -21,7 +21,7 @@ To run the chatbot locally, you will need to install the following libraries:
     
 * Clone the repository:
 ```bash
-git clone https://github.com/your-repo/chatbot_with_rag.git
+git clone https://github.com/Leila828/Chatbot_with_rag.git
 cd chatbot_with_rag
 ```
 ```bash
