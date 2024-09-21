@@ -41,7 +41,7 @@ def download_gem_report(download_url, output_path="gem_report.pdf"):
     else:
         raise Exception(f"Failed to download the report. Status code: {response.status_code}")
 
-# Main process
+"""# Main process
 if __name__ == "__main__":
     try:
         # Step 1: Fetch the first download URL
@@ -51,3 +51,4 @@ if __name__ == "__main__":
         download_gem_report(download_url, output_path="gem_report.pdf")
     except Exception as e:
         print(f"An error occurred: {e}")
+"""
